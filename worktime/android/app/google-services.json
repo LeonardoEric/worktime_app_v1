@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "807366994297",
+    "project_id": "worktime-97bc8",
+    "storage_bucket": "worktime-97bc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807366994297:android:5c816cdbf2e4386f6527a8",
+        "android_client_info": {
+          "package_name": "com.example.worktime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpVe2mfuIpegP44fQWfbi-SJgZASktEQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
